@@ -12,4 +12,7 @@ password: dI1_0'K&
 Console signin url: https://112458075739.signin.aws.amazon.com/console
 
 Utilize infer_schema
+DBT recovery code: EHZRVAZJMB1217RAAX7LK18K
+
+
 
